@@ -1,0 +1,63 @@
+/*..........header style..... */
+.header{
+    margin-left: 120px;
+    width: 243px;
+    height: 52.2px;
+}
+.header:hover{
+    color: red;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* .... turn section in to flexible..... */
+.display-flex{
+    display: flex;
+    align-items: center;
+}
+/* .....style div..... */
+.div-size{
+    width: 600px;
+    height: 350px;
+}
+/* headline style */
+h1{
+    width: 582px;
+    height: 100px;
+    margin-left: 120px;
+    font-weight: bold;
+    font-size: 2em;
+
+}
+.head-span{
+    color: rgb(167, 36, 57);
+}
+/* ...paragraph style */
+.influ-paragraph{
+    width: 505px;
+    height: 100px;
+    margin-bottom: 50px;
+    margin-left: 120px;
+}
+/* ........image style....... */
+.first-image-div{
+    margin-right: 165px;
+    margin-left: 133px;
+}
+.first-image{
+    height: 414px;
+    width: 470px;
+}
+/* ......button style..... */
+.button{
+    width: 196px;
+    height: 44px;
+    border-radius: 41px;
+    margin-top: 511px;
+    margin-left: 0;
+    padding: 10px;
+    text-decoration: none;
+    background-color:rgb(167, 36, 57);
+    color: whitesmoke;
+    margin-left: 120px;
+}
